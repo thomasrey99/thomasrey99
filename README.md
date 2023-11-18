@@ -71,7 +71,7 @@ Estoy emocionado/a por el viaje que me espera en el mundo del desarrollo de soft
 
 · React Native
 
-· Redux Toolkit
+· Redux Toolkit ![Texto alternativo](descarga.png)
 
 · Node js
 
