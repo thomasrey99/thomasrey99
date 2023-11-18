@@ -25,7 +25,7 @@ Actualmente me encuentro realizando proyectos freelance, aprendiendo nuevas tecn
 
 Como desarrollador, mi objetivo es crecer y fortalecer mis habilidades en diferentes áreas de la programación. Mis metas y direcciones futuras incluyen:
 
-### Aprendizaje Continuo
+### Aprendizaje Continuo 📚
 
 Estoy comprometido a seguir aprendiendo nuevas tecnologías y conceptos. Mi enfoque principal actualmente está en:
 
@@ -37,14 +37,14 @@ Estoy comprometido a seguir aprendiendo nuevas tecnologías y conceptos. Mi enfo
 - Aprender a realizar Testing para hacer mas profesionales mis proyectos.
 - Aprender a utiulizar microservicios de Google.
 
-### Colaboración y Experiencia Práctica
+### Colaboración y Experiencia Práctica 🤝
 
 Busco oportunidades para colaborar en proyectos desafiantes que me permitan trabajar en equipo y aprender de otros desarrolladores. Estoy abierto/a a:
 
 - Contribuir en proyectos de código abierto para ampliar mi experiencia.
 - Trabajar en entornos donde pueda recibir retroalimentación constructiva para mejorar constantemente.
 
-### Desarrollo Profesional
+### Desarrollo Profesional 💼
 
 Mi meta a largo plazo es convertirme en un desarrollador sólido y versátil, capaz de abordar problemas complejos y ofrecer soluciones innovadoras. Para lograr esto, planeo:
 
