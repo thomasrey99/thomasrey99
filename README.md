@@ -1,4 +1,4 @@
-# Hola 👋, soy Thomas Rey :bug:
+# Hola 👋, soy Thomas Rey :tada:
 
 ## ¿Quien soy?
 
