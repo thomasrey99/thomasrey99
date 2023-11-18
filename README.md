@@ -71,7 +71,7 @@ Estoy emocionado/a por el viaje que me espera en el mundo del desarrollo de soft
 
 · React Native
 
-![Logo de Redux Toolkit](descarga.png)
+<img src="descarga.png" alt="Texto alternativo" width="300" height="200">
 
 · Redux Toolkit
 
