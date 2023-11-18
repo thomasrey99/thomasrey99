@@ -1,5 +1,5 @@
 ### Hola 👋, soy thomas Rey!
-##Conocido como thomasrey99 en git Hub
+Conocido como thomasrey99 en git Hub
 <!--
 **thomasrey99/thomasrey99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
