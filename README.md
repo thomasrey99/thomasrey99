@@ -71,7 +71,7 @@ Estoy emocionado/a por el viaje que me espera en el mundo del desarrollo de soft
 
 · React Native
 
-<img src="descarga.png" alt="Texto alternativo" width="150" height="150"> <img src="descarga.png" alt="Texto alternativo" width="150" height="150">
+<img src="js.png" alt="Texto alternativo" width="150" height="150"> <img src="typescript.png" alt="Texto alternativo" width="150" height="150"> <img src="html5.png" alt="Texto alternativo" width="150" height="150">
 
 · Redux Toolkit
 
