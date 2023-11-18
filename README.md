@@ -1,6 +1,6 @@
-# Hola 👋, soy Thomas Rey 👨‍💻
+# Hola 👋, soy Thomas Rey 
 
-## ¿Quien soy?
+## ¿Quien soy? 🧑
 
 Como Full Stack Web Developer, tengo una sólida experiencia en el desarrollo web, con enfoque tanto en Front-End como en Back-End. Mi dominio se extiende a lenguajes de programación como JavaScript y TypeScript, los cuales he aplicado con éxito en proyectos con impacto real.
 
@@ -17,11 +17,11 @@ Destaco por mi capacidad para trabajar en equipo, algo que he cultivado a travé
 Me caracterizo por ser resolutivo, curioso y adaptable, con la habilidad de absorber rápidamente nuevas tecnologías y enfrentar desafíos con creatividad. Estoy siempre dispuesto a escuchar y aprender, buscando oportunidades para aplicar mis habilidades técnicas y de liderazgo en entornos desafiantes y dinámicos.
 Actualmente me encuentro mejorando mis habilidades y buscando mi primer oportunidad en el mundo IT.
 
-## ¿Que hago?
+## ¿Que hago? 👨‍💻
 
 Actualmente me encuentro realizando proyectos freelance, aprendiendo nuevas tecnologias, reforzando mis conocimientos en busca de mi primera oportunidad en una empresa del mundo IT. 
 
-## ¿Hacia donde voy?
+## ¿Hacia donde voy? 🌟
 
 Como desarrollador, mi objetivo es crecer y fortalecer mis habilidades en diferentes áreas de la programación. Mis metas y direcciones futuras incluyen:
 
@@ -53,7 +53,7 @@ Mi meta a largo plazo es convertirme en un desarrollador sólido y versátil, ca
 
 Estoy emocionado/a por el viaje que me espera en el mundo del desarrollo de software y estoy ansioso/a por aprender y crecer cada día más.
 
-## ¿Que tecnologias uso?
+## ¿Que tecnologias uso? 💻
 
 · Javascript
 
