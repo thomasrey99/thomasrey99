@@ -1,4 +1,4 @@
-# Hola 👋, soy Thomas Rey
+# Hola 👋, soy Thomas Rey :smiley
 
 ## ¿Quien soy?
 
