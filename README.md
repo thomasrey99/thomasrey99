@@ -89,7 +89,7 @@ Estoy emocionado/a por el viaje que me espera en el mundo del desarrollo de soft
 
 ·Ant Design
 
-## No dudes en contactarme!
+## No dudes en contactarme! 📧
 
 -Te aseguras en tu equipo tener una persona apasionada por este mundo, autonoma, resolutiva, creativa y con capacidad de trabajar en equipo!
 
