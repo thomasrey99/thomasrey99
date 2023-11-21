@@ -40,40 +40,25 @@ Estoy emocionado/a por el viaje que me espera en el mundo del desarrollo de soft
 
 ## ¿Que tecnologias uso? 💻
 
-· Javascript
-
-· Typescript
-
-· HTML 5
-
-· CSS 3
-
-· SASS
-
-· Next js
-
-· React js
-
-· React Native
-
-
-· Redux Toolkit
-
-· Node js
-
-· express
-
-· SQL
-
-· Postgresql
-
-· Sequelize
-
-·Bootstrap
-
-·Tailwind
-
-·Ant Design
+<div style="width:80vw; display: flex; flex-direction:row; flex-wrap:wrap; justify-content: center; align-items:center;">
+    <img src="./js.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./typescript.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./html5.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./css3.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./sass.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./next.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./react.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./react-native.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./redux.jfif" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./node.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./express.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./sql.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./postgres.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./sequelize.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./bootstrap.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./tailwind.png" style="margin: 10px;" width="100" heigth="100" />
+    <img src="./ant design.png" style="margin: 10px;" width="100" heigth="100" />
+</div>
 
 ## No dudes en contactarme! 📧
 
